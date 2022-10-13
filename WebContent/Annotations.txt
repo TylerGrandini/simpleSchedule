@@ -1,0 +1,16 @@
+HISTÓRICO PESSOAL DE ALTERAÇÕES ----------------------------------------------
+CONFERÊNCIA SOBRE O QUE FOI FEITO | ANTES X DEPOIS -------17/09/2022----------
+- MODEL: OK.
+- VIEW: OK.
+- CONTROLLER: OK.
+- DAO: OK.
+
+
+
+
+
+
+
+O QUE PRECISA SER ALTERADO/MELHORADO ------------------------------------------
+(1) Mudar o redirecionamento da página index (Main) para a "DashboardSchedule.jsp".
+(2) Rever e alterar o comentário da linha 65 da classe "ScheduleController.java".
